@@ -4,5 +4,8 @@ yubaba.vimをVimから
 ` :so yubaba.vim `  
 で実行できます。  
 
+## LICENSE
+MIT
+
 ## Author
 [kato-k](https://github.com/kato-k)
